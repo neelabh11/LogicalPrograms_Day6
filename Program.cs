@@ -4,7 +4,7 @@
     {
         public static void Main(string[] args)
         {
-            PrimeNumber.CheckPrimeNumber();
+            Stopwatch.MeasureTime();
         }
 
     }
