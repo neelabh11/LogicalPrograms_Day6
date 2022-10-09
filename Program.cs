@@ -4,7 +4,7 @@
     {
         public static void Main(string[] args)
         {
-            PerfectNumber.DisplayPerfectNumber();
+            Reverse.ReverseTheNumber();
         }
 
     }
